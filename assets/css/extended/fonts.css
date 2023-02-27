@@ -11,7 +11,7 @@
     font-style: normal;
     src: url("/STIXTwoText-Bold.woff2") format('woff2');
 }
-  
+
 .entry-content, .post-content {
     font-family: "STIX", Georgia, 'Times New Roman', Times, serif;
 }
