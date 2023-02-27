@@ -111,7 +111,7 @@ params:
 
     assets:
         disableHLJS: true
-    #     favicon: "<link / abs url>"
+          favicon: "/resources/images/logo.png"
     #     favicon16x16: "<link / abs url>"
     #     favicon32x32: "<link / abs url>"
     #     apple_touch_icon: "<link / abs url>"
