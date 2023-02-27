@@ -26,8 +26,8 @@ languages:
           series: series
         menu:
             main:
-                - name: Articles
-                  url: articles
+                - name: Work
+                  url: work
                   weight: 5
                 - name: Search
                   url: search/
