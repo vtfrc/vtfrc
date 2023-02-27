@@ -59,7 +59,7 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     # comments: false
-    images: ["papermod-cover.png"]
+    images: ["logo.png"]
 
     profileMode:
         enabled: false
@@ -111,9 +111,9 @@ params:
 
     assets:
         disableHLJS: true
-        favicon: "/resources/_gen/images/logo.png"
-    #     favicon16x16: "<link / abs url>"
-    #     favicon32x32: "<link / abs url>"
+        favicon: "/favicon.ico"
+        favicon16x16: "/favicon-16x16.ico"
+        favicon32x32: "/favicon-32x32.ico"
     #     apple_touch_icon: "<link / abs url>"
     #     safari_pinned_tab: "<link / abs url>"
 
