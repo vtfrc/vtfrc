@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'STIX';
+    font-weight: 400;
+    font-style: normal;
+    src: url("/STIXTwoText-Regular.woff2") format('woff2');
+  }
+
+@font-face {
+    font-family: 'STIX';
+    font-weight: 700;
+    font-style: normal;
+    src: url("/STIXTwoText-Bold.woff2") format('woff2');
+}
+  
+.entry-content, .post-content {
+    font-family: "STIX", Georgia, 'Times New Roman', Times, serif;
+}
+
+.home-info .entry-content {
+    font-size: 1.1rem;
+}
