@@ -94,11 +94,8 @@ params:
           url: "https://linkedin.com/in/vittoriofaraco"
         - name: twitter
           url: "https://twitter.com/vittoriofaraco"
-
-    editPost:
-        URL: "https://github.com/vtfrc/vittoriofaraco/content"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
+        - name: email
+          url: "mailto:faracovittorio@gmail.com"
 
     # label:
     #     text: "Home"
