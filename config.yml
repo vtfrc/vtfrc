@@ -77,9 +77,7 @@ params:
     homeInfoParams:
         Title: "Vittorio Faraco"
         Content: >
-            I am a freelance AI and data consultant, MSc Computer Engineering student and AI researcher.
-
-            I am a MSc student in Computer Engineering at Politecnico di Bari, in Italy.
+            I am a freelance AI and data consultant, MSc Computer Engineering student and AI researcher at Politecnico di Bari, in Italy.
 
             <br><br>My main interest is AI: I am working specifically on Recommender Systems algorithms, on trustworthy ML/DL problems such as Fairness, on promising methods, tools and areas such as Optimization, Causality, Reinforcement Learning, Conversational AI and Synthetic Data Generation. One of my goals is to study and expand the intersection between these technologies and Healthcare solutions.
 
