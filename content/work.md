@@ -2,6 +2,7 @@
 title: "Work"
 date: 2023-02-27T19:14:38+01:00
 draft: false
+ShowToc: false
 ---
 
 [You can download my CV from here.](https://drive.google.com/file/d/1H8ancE3PHksB6uwTswR5nXF4rtL4Y9ff/view?usp=sharing)
