@@ -19,3 +19,8 @@
 .home-info .entry-content {
     font-size: 1.1rem;
 }
+
+.pagination a {
+    color: var(--secondary);
+    background: none;
+}
