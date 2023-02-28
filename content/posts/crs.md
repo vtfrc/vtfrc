@@ -25,5 +25,6 @@ Could the preference elicitation process itself be biased?
 How should we evaluate a CRS in an unbiased way?
 I think these are great starting points for future research and they can lead to increasingly substantial improvements in this technology.
 
-References
+### References
+
 [1] Allen Lin, Ziwei Zhu, Jiangling Wang, James Caverlee. Towards Fair Conversational Recommender Systems. arXiv:2208.03654.
