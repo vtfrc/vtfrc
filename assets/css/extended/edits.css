@@ -12,6 +12,10 @@
     src: url("/STIXTwoText-Bold.woff2") format('woff2');
 }
 
+body {
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+}
+
 .entry-content, .post-content {
     font-family: "STIX", Georgia, 'Times New Roman', Times, serif;
 }

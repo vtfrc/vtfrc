@@ -16,4 +16,5 @@ I also have a passion for thinking, talking, and sharing. This, combined with my
 [You can also write me an email from here](mailto:faracovittorio@gmail.com).
 
 ## Projects
-- Twitter Sentiment Analysis System
+
+- [Twitter Sentiment Analysis System](https://github.com/vtfrc/twitter-sentiment-analysis)
