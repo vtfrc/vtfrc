@@ -13,7 +13,7 @@ At the same time, I advise companies and professionals on AI, data, and media. T
 
 I also have a passion for thinking, talking, and sharing. This, combined with my tech and analytical background, led me to start sharing things in this hyperconnected world we live in today: I have multiple YouTube channels and websites where I share tips, thoughts, and lessons and connect with other amazing people. Visit both my Italian channel and my English one for more.
 
-[You can also write me an email from here](mailto:faracovittorio@gmail.com).
+[You can also write me an email from here.](mailto:faracovittorio@gmail.com)
 
 ## Projects
 
