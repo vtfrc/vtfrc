@@ -1,5 +1,6 @@
 baseURL: "https://vittoriofaraco.com/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: Vittorio Faraco
+
 paginate: 6
 theme: "PaperMod"
 
@@ -107,8 +108,8 @@ params:
     assets:
         disableHLJS: true
         favicon: "/favicon.ico"
-        favicon16x16: "/favicon-16x16.png"
-        favicon32x32: "/favicon-32x32.png"
+        favicon16x16: "/favicon-16x16.ico"
+        favicon32x32: "/favicon-32x32.ico"
     #     apple_touch_icon: "<link / abs url>"
     #     safari_pinned_tab: "<link / abs url>"
 
