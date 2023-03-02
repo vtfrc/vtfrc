@@ -5,3 +5,9 @@ draft: true
 ---
 
 I've used WordPress since 2014 probably. This means I've always been skeptical to try new technologies for blogs or personal websites.
+
+```python
+list = []
+list.append(doc1)
+df = pd.DataFrame(list)
+```
