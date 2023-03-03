@@ -12,6 +12,17 @@
     src: url("/STIXTwoText-Bold.woff2") format('woff2');
 }
 
+@font-face {
+    font-family: 'fira';
+    font-weight: 400;
+    font-style: normal;
+    src: url("/FiraCode-Regular") format('ttf');
+}
+
+code {
+    font-family: "fira", monospace;
+}
+
 a, h1, h2, h3, h4, h5, h6, p {
     font-weight: 400 !important;
 }
