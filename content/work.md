@@ -6,7 +6,7 @@ ShowToc: false
 disableShare: true
 ---
 
-[You can download my CV from here.](https://drive.google.com/file/d/1H8ancE3PHksB6uwTswR5nXF4rtL4Y9ff/view?usp=sharing)
+[You can download my CV from here](https://drive.google.com/file/d/1H8ancE3PHksB6uwTswR5nXF4rtL4Y9ff/view?usp=sharing).
 
 My main interests are Artificial Intelligence and Machine Learning. I’m addressing my work towards studying different areas/tools like Causality, Reinforcement Learning, Recommender Systems, Fairness, and Conversational AI, especially in the health and wellness domains, where I think technology will play a huge role in the near future.
 
@@ -14,7 +14,7 @@ At the same time, I advise companies and professionals on AI, data, and media. T
 
 I also have a passion for thinking, talking, and sharing. This, combined with my tech and analytical background, led me to start sharing things in this hyperconnected world we live in today: I have multiple YouTube channels and websites where I share tips, thoughts, and lessons and connect with other amazing people. Visit both my [Italian channel](https://youtube.com/@VittorioFaraco) and my [English one](https://youtube.com/@VittorioFaraco2) for more.
 
-[You can also write me an email from here.](mailto:faracovittorio@gmail.com)
+[You can also write me an email from here](mailto:faracovittorio@gmail.com).
 
 ## Projects
 
