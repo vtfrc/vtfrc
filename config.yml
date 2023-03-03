@@ -60,7 +60,8 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     # comments: false
-    images: ["logo.png"]
+    images: ["twitter.png"]
+    twitter_cards: true
 
     profileMode:
         enabled: false
