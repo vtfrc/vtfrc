@@ -6,7 +6,7 @@ ShowToc: false
 disableShare: true
 ---
 
-[You can download my CV from here](https://drive.google.com/file/d/1H8ancE3PHksB6uwTswR5nXF4rtL4Y9ff/view?usp=sharing).
+[You can download my CV from here](/assets/documents/Vittorio Faraco CV.pdf).
 
 My main interests are Artificial Intelligence and Machine Learning. I’m addressing my work towards studying different areas/tools like Causality, Reinforcement Learning, Recommender Systems, Fairness, and Conversational AI, especially in the health and wellness domains, where I think technology will play a huge role in the near future.
 
