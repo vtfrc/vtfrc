@@ -25,3 +25,9 @@ _Hugo uses HTML-rendered Markdown files to create, edit and serve content to the
 Also, no more expensive hosting providers for my minimal and unpretentious website: [Github Pages](https://pages.github.com/) is more than enough and it's the perfect solution to rapidly create and deploy new things online for me just through my [Github repo](https://github.com/vtfrc/vittoriofaraco).
 
 Do you think this new setup will finally make it more likely that I publish more often?
+
+```python
+class Python():
+  list = []
+  return list
+```
