@@ -68,7 +68,7 @@ body.dark {
     background: var(--theme);
 }
 
-.share-buttons {
+.share-buttons, .toc {
     background: var(--entry);
     border: 1px solid var(--border);
 }
