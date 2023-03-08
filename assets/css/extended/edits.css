@@ -1,4 +1,4 @@
-// Fonts and text
+/* Fonts and text */
 
 @font-face {
     font-family: 'STIX';
@@ -60,7 +60,7 @@ strong>a {
     font-size: 34px;
 }
 
-// Miscellaneous tweaks
+/* Miscellaneous tweaks */
 
 .pagination a {
     color: var(--secondary);
