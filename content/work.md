@@ -16,6 +16,23 @@ I also have a passion for thinking, talking, and sharing. This, combined with my
 
 [You can also write me an email from here](mailto:faracovittorio@gmail.com).
 
+## Short CV
+
+### Work
+
+- Research Intern, [Polytechnic University of Bari](https://www.poliba.it) (Italy), 2022 - present
+- Data and Web Consultant, Freelance, 2020 - present
+
+### Education
+
+- MSc in Computer Engineering, [Polytechnic University of Bari](https://www.poliba.it) (Italy), 2021 - 2023
+- BSc in Computer and Automation Engineering, [Polytechnic University of Bari](https://www.poliba.it) (Italy), 2018 - 2021
+
+### Extras
+
+- Certificate in Advanced English, C2 CEFR level, [Cambridge University Press & Assessment](https://www.cambridge.org/), 2023
+- Digital Media Producer, [YouTube](https://youtube.com/@VittorioFaraco2) and several other channels, 2018 - present
+
 ## Projects
 
 - [Twitter Sentiment Analysis System](https://github.com/vtfrc/twitter-sentiment-analysis)
