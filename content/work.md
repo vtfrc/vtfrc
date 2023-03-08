@@ -21,7 +21,7 @@ I also have a passion for thinking, talking, and sharing. This, combined with my
 ### Work
 
 - **Research Intern**, [Polytechnic University of Bari](https://www.poliba.it) (Italy), *2022 - present*
-- Data and Web Consultant, Freelance, *2020 - present*
+- **Data and Web Consultant**, Freelance, *2020 - present*
 
 ### Education
 
@@ -30,10 +30,10 @@ I also have a passion for thinking, talking, and sharing. This, combined with my
 
 ### Extras
 
-- **Certificate in Advanced English, C2 CEFR level**, [Cambridge University Press & Assessment](https://www.cambridge.org/), *2023*
+- **Certificate in Advanced English, C2 CEFR level**, [Cambridge University Press \& Assessment](https://www.cambridge.org/), *2023*
 - **Digital Media Producer**, [YouTube](https://youtube.com/@VittorioFaraco2) and several other channels, *2018 - present*
 
 ### Projects
 
 - **Joint Fairness-Novelty Optimizer for RecSys** (code to be released soon): developed an optimization-based reranking system for postprocessing fairness—producer-calibrated and equality-based—and novelty enhancement in recommender systems
-- **[Twitter Sentiment Analysis System](https://github.com/vtfrc/twitter-sentiment-analysis)**: built a lexicon-based engine that performs emotion recognition on Twitter data for my BSc thesis, using Python, Tweepy, NLTK, TextBlob, Plotly, WordCloud
+- **[Twitter Sentiment Analysis System]**(https://github.com/vtfrc/twitter-sentiment-analysis): built a lexicon-based engine that performs emotion recognition on Twitter data for my BSc thesis, using Python, Tweepy, NLTK, TextBlob, Plotly, WordCloud
