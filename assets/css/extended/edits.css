@@ -1,3 +1,5 @@
+// Fonts and text
+
 @font-face {
     font-family: 'STIX';
     font-weight: 400;
@@ -45,6 +47,7 @@ strong>a {
 
 .home-info .entry-content {
     font-size: 18px;
+    color: var(--content);
 }
 
 .home-info .entry-content a {
@@ -56,6 +59,8 @@ strong>a {
 .post-title {
     font-size: 34px;
 }
+
+// Miscellaneous tweaks
 
 .pagination a {
     color: var(--secondary);
