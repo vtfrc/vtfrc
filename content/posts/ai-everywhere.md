@@ -14,6 +14,6 @@ Usually we think that building machine learning models is a matter of ‘big’ 
 
 Andrew explained how this is false, and how in the near future we’ll be able to see AI in contexts that range from the restaurant we go to on saturday night, to the local clothing store.
 
-If you’re interested, I highly suggest that you take a look.
+[If you’re interested, I highly suggest that you take a look](https://www.youtube.com/watch?v=reUZRyXxUs4).
 
 This opens up a lot of possibilities, for instance for freelancers or agencies that might start offering AI services to small- to medium-sized companies that are simply skeptical today of how they can benefit them.
