@@ -44,7 +44,13 @@ strong>a {
 }
 
 .home-info .entry-content {
-    font-size: 1.1rem;
+    font-size: 18px;
+}
+
+.home-info .entry-content a {
+    box-shadow: 0 1px;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
 }
 
 .post-title {
