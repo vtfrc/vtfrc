@@ -80,7 +80,9 @@ body {
     -webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-
+:root {
+    --content: rgb(81, 81, 81);
+}
 body.dark {
     background: var(--theme);
 }
