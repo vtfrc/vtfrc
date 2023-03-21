@@ -10,6 +10,6 @@ The following
 
 $$ x = a + b $$
 
-Is a display equation
+Is a display equation.
 
 While this \\( x = a + b \\) is an inline equation.
