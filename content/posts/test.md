@@ -3,11 +3,13 @@ title: "Test Latex"
 date: 2023-03-02T09:56:06+01:00
 draft: false
 katex: true
-markup: 'mmark'
+renderer: mmark
 ---
 
 The following
 
-$$\int_{a}^{b} x^2 dx$$
+$$ x = a + b $$
 
-Is an integral
+Is a display equation
+
+While this \\( x = a + b \\) is an inline equation.
