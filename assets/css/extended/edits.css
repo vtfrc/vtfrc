@@ -1,9 +1,5 @@
 /* Fonts and text */
 
-.katex {
-    display: inline !important;
-}
-
 @font-face {
     font-family: 'STIX';
     font-weight: 400;
