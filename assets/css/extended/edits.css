@@ -113,3 +113,10 @@ body.dark {
     border-left: none;
     border-right: none;
     }
+
+@media screen and (max-width: 768px) {
+    .post-entry {
+        margin-bottom: calc(var(--gap) - 5px);
+        padding-bottom: 10px;
+    }
+}
