@@ -47,13 +47,21 @@ strong>a {
 
 .home-info .entry-content {
     font-size: 18px;
-    color: var(--content);
+    color: var(--primary);
 }
 
 .home-info .entry-content a {
-    box-shadow: 0 1px;
+    box-shadow: 0 1px var(--primary) !important;
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
+}
+
+.post-content {
+    color: var(--primary);
+}
+
+.post-content a {
+    box-shadow: 0 1px var(--primary) !important;
 }
 
 .post-title {
@@ -91,3 +99,17 @@ body.dark {
     background: var(--entry);
     border: 1px solid var(--border);
 }
+
+.post-entry {
+    position: relative;
+    margin-bottom: calc(var(--gap) - 10px);
+    padding: 0;
+    padding-bottom: 15px;
+    background: none;
+    border-radius: 0;
+    transition: transform .1s;
+    border: 2px solid var(--border);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    }
