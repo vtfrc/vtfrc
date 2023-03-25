@@ -51,7 +51,7 @@ strong>a {
 }
 
 .home-info .entry-content a {
-    box-shadow: 0 1px var(--primary) !important;
+    box-shadow: 0 1px var(--secondary) !important;
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
 }
@@ -61,7 +61,7 @@ strong>a {
 }
 
 .post-content a {
-    box-shadow: 0 1px var(--primary) !important;
+    box-shadow: 0 1px var(--secondary) !important;
 }
 
 .post-title {
