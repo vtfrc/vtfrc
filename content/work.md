@@ -33,5 +33,5 @@ I also have a passion for thinking, talking, and sharing. This, combined with my
 
 ### Projects
 
-- **Joint Fairness-Novelty Optimizer for RecSys**: developed an optimization-based reranking system for postprocessing fairness—producer-calibrated and equality-based—and novelty enhancement in recommender systems (code to be released soon)
+- **Sub-Group Fairness Re-Ranker for RecSys**: developed an optimization-based re-ranking system for post-processing fairness (producer-calibrated and equality-based) and novelty enhancement in recommender systems (code to be released soon)
 - **Twitter Sentiment Analysis System**: built a lexicon-based engine that performs emotion recognition on Twitter data for my BSc thesis, using Python, Tweepy, NLTK, TextBlob, Plotly, WordCloud ([Github](https://github.com/vtfrc/twitter-sentiment-analysis))
