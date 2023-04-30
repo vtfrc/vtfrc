@@ -79,11 +79,11 @@ params:
     homeInfoParams:
         Title: "Vittorio Faraco"
         Content: >
-            I am a MSc Computer Engineering student and early-stage AI researcher at [Politecnico di Bari](https://www.poliba.it), in Italy, and a freelance consultant.
+            I am a MSc computer engineering student and early-stage AI researcher at [Politecnico di Bari](https://www.poliba.it), in Italy, and a freelance consultant.
 
-            <br><br>My research focuses on AI: I am working specifically on Recommender Systems algorithms, on trustworthy ML problems such as Fairness, on useful methods,
-            tools and areas such as Optimization, Causal Inference, Reinforcement Learning, Conversational AI and Synthetic Data Generation. One of my goals is to study and expand
-            the intersection between these technologies and problems connected to Social Good, like Health and Ethics.
+            <br><br>My research focuses on AI: I am working specifically on recommender systems algorithms, on trustworthy ML problems such as fairness, on useful methods,
+            tools and areas such as optimization, causal inference, reinforcement learning, conversational AI and synthetic data generation. One of my goals is to study and expand
+            the intersection between these technologies and problems connected to social good, like health and ethics.
 
             <br><br>Besides that, I am also sharing thoughts and lessons related to my work and interests online, mainly on [YouTube](https://youtube.com/@VittorioFaraco2).
             Below you can find the online places where I'm active, and a list of articles and news, both technical and personal.
