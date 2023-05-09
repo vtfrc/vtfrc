@@ -173,3 +173,6 @@ services:
         disableInlineCSS: true
     twitter:
         disableInlineCSS: true
+
+permalinks:
+    posts: "/:slug"
