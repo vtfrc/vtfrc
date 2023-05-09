@@ -175,4 +175,4 @@ services:
         disableInlineCSS: true
 
 permalinks:
-    posts: "/:slug"
+    posts: "/:filename"
