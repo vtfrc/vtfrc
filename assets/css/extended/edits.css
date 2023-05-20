@@ -135,16 +135,19 @@ body.dark {
 }
 
 .share-buttons, .toc {
-    background: var(--entry);
+    background: var(--border);
     border: none;
     border-radius: 0;
 }
 
-@media (prefers-color-scheme: light) {
-    .share-buttons, .toc {
-        background: var(--tertiary);
-    }
-    .share-buttons a {
-	color: var(--secondary);
-    }
+.share-buttons a {
+    color: var(--secondary);
+}
+
+.dark .share-buttons, .toc {
+    background: var(--entry);
+}
+
+.dark .share-buttons a {
+    color: var(--primary);
 }
