@@ -37,6 +37,10 @@ strong>a {
     font-weight: bold !important;
 }
 
+body {
+    font-size: 20px;
+}
+
 .post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 {
     font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
 }
@@ -46,7 +50,7 @@ strong>a {
 }
 
 .home-info .entry-content {
-    font-size: 18px;
+    font-size: 20px;
     color: var(--primary);
 }
 
