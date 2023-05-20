@@ -144,7 +144,7 @@ body.dark {
     color: var(--secondary);
 }
 
-.dark .share-buttons, .toc {
+.dark .share-buttons, .dark .toc {
     background: var(--entry);
 }
 
