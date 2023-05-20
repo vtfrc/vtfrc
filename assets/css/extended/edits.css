@@ -54,6 +54,15 @@ body {
     color: var(--primary);
 }
 
+@media (max-width: 1024px) {
+    body {
+        font-size: 19px;
+    }
+    .home-info .entry-content {
+        font-size: 19px;
+    }
+}
+	
 .home-info .entry-content a {
     box-shadow: 0 1px var(--secondary) !important;
     box-decoration-break: clone;
