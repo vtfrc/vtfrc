@@ -1,6 +1,6 @@
 ---
 title: "Let's talk about building in public"
-date: 2023-05-25T14:43:23+01:00
+date: 2023-05-25T14:43:23+02:00
 draft: false
 ---
 
