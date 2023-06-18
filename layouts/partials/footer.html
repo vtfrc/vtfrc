@@ -3,10 +3,10 @@
     {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
     {{- else }}
-    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+    <span>&copy; {{ now.Year }} {{ site.Title }}</span>
     {{- end }}
     <span>
-        P. iva 01384150775
+        P. iva &zwj;01384150775
     </span>
 </footer>
 {{- end }}
