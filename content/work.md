@@ -8,11 +8,11 @@ disableShare: true
 
 [You can download my CV from here](/documents/Vittorio_Faraco_CV.pdf).
 
-My main interests are artificial intelligence and machine learning. I’m studying different areas/tools like recommender systems, causal inference, reinforcement learning, fairness, and conversational AI, especially in the health and social domains, where I think technology will play a huge role in the near future.
+My main interests are artificial intelligence and web development. I like to design and build models and solutions that solve real-world problems, especially in the health and wellness domains.
 
-At the same time, I advise companies and professionals on AI, data, and media. Today’s tools can be game changers in terms of business opportunities and impact: my focus is on making sure that great realities sustainably grow and thrive, by taking full advantage of the current and future, rapidly-changing environment.
+I advise companies on AI, data, and media. Today’s tools can be game changers in terms of business opportunities and impact: my focus is on making sure that great realities sustainably grow and thrive, by taking full advantage of the current and future, rapidly-changing environment.
 
-I also have a passion for thinking, talking, and sharing. This, combined with my tech and analytical background, led me to start sharing things in this hyperconnected world we live in today: I have multiple YouTube channels and websites where I share tips, thoughts, and lessons and connect with other amazing people. Visit both my [Italian channel](https://youtube.com/@VittorioFaraco) and my [English one](https://youtube.com/@VittorioFaraco2), and connect with me on [LinkedIn](https://linkedin.com/in/vittoriofaraco) and [Twitter](https://twitter.com/vittoriofaraco) for more.
+I also have a passion for thinking, talking, and sharing. This, combined with my tech and analytical background, led me to start sharing things online: I have multiple YouTube channels and websites where I share tips, thoughts, and lessons and connect with other amazing people. Visit both my [Italian channel](https://youtube.com/@VittorioFaraco) and my [English one](https://youtube.com/@VittorioFaraco2), and connect with me on [LinkedIn](https://linkedin.com/in/vittoriofaraco) and [Twitter](https://twitter.com/vittoriofaraco) for more.
 
 ## Short CV
 
