@@ -6,7 +6,7 @@ ShowToc: false
 disableShare: true
 ---
 
-[You can download my CV from here](/documents/Vittorio_Faraco_CV.pdf).
+[You can download my CV from here](/Vittorio_Faraco_CV.pdf).
 
 My main interests are artificial intelligence and web development. I like to design and build models and solutions that solve real-world problems, especially in the health and wellness domains.
 
