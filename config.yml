@@ -62,7 +62,7 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     # comments: false
-    images: ["/twitter.png"]
+    images: ["/twitter.png", "/logo.png"]
     twitter_cards: true
 
     profileMode:
@@ -98,10 +98,10 @@ params:
         - name: email
           url: "mailto:faracovittorio@gmail.com"
 
-    # label:
+    label:
     #     text: "Home"
-    #     icon: icon.png
-    #     iconHeight: 35
+        icon: logo.png
+        iconHeight: 35
 
     # analytics:
     #     google:
