@@ -99,7 +99,7 @@ params:
           url: "mailto:faracovittorio@gmail.com"
 
     label:
-    #     text: "Home"
+        text: ""
         icon: logo.png
         iconHeight: 35
 
