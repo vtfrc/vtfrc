@@ -98,10 +98,10 @@ params:
         - name: email
           url: "mailto:faracovittorio@gmail.com"
 
-    label:
-        text: ""
-        icon: logo.png
-        iconHeight: 35
+    # label:
+    #    text: ""
+    #    icon: logo.png
+    #    iconHeight: 35
 
     # analytics:
     #     google:
