@@ -1,7 +1,7 @@
 ---
 title: "My new open source experiment"
 date: 2023-07-07T11:31:36+02:00
-draft: true
+draft: false
 ---
 
 I explored a lot of technologies recently. Inspired by [Fireship](https://fireship.io)'s [FKIT](https://fireship.io/courses/sveltekit) stack, and by [shadcn](https://shadcn.com)'s [Taxonomy](https://tx.shadcn.com) project, I decided to learn a couple of new tools while open sourcing everything and building in public.
