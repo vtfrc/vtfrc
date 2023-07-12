@@ -10,7 +10,7 @@ disableShare: true
 
 My main interests are artificial intelligence and web development. I like to design and build models and solutions that solve real-world problems, especially in the health and wellness domains.
 
-I advise companies on AI, data analysis, web-software development, and media. Working on full-stack applications, custom frontend or backend functionalities, data tools, chatbots, recommendation algorithms, and more, I am able to provide advanced solutions to interesting and challenging needs.
+I advise companies on AI, data analysis, web-software development, and media. Working on full-stack applications, custom frontend or backend functionalities, data tools, chatbots, recommendation algorithms, and more, I am able to provide advanced solutions to exciting and challenging needs. Besides Python as a general and data-oriented tool, some of my other favorite technologies are currently Laravel, Nuxt, Supabase, and MySQL.
 
 I also have a passion for thinking, talking, and sharing. This, combined with my tech and analytical background, led me to start sharing things online: I have multiple YouTube channels and websites where I share thoughts and connect with other amazing people. Visit both my [Italian channel](https://youtube.com/@VittorioFaraco) and my [English one](https://youtube.com/@VittorioFaraco2), and connect with me on [LinkedIn](https://linkedin.com/in/vittoriofaraco) and [Twitter](https://twitter.com/vittoriofaraco) for more.
 
