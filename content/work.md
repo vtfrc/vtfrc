@@ -18,8 +18,8 @@ I also have a passion for thinking, talking, and sharing. This, combined with my
 
 ### Work
 
-- **Research Intern**, [Polytechnic University of Bari](https://www.poliba.it) (Italy), *2022 - 2023*
 - **Data and Web Consultant**, Freelance, *2021 - present*
+- - **Research Intern**, [Polytechnic University of Bari](https://www.poliba.it) (Italy), *2022 - 2023*
 
 ### Education
 
