@@ -33,5 +33,6 @@ I also have a passion for thinking, talking, and sharing. This, combined with my
 
 ### Projects
 
-- **Sub-Group Fairness Re-Ranker for RecSys**: developed an optimization-based re-ranking system for post-processing fairness (producer-calibrated and equality-based) and novelty enhancement in recommender systems (code to be released soon)
+- **Health and Wellness Monitoring App**: open sources an experiment to learn and test technologies like Nuxt3 and Supabase, in one of the fields I love most ([Github](https://github.com/vtfrc/healti)
+- - **Sub-Group Fairness Re-Ranker for RecSys**: developed an optimization-based re-ranking system for post-processing fairness (producer-calibrated and equality-based) and novelty enhancement in recommender systems (code to be released soon)
 - **Twitter Sentiment Analysis System**: built a lexicon-based engine that performs emotion recognition on Twitter data for my BSc thesis, using Python, Tweepy, NLTK, TextBlob, Plotly, WordCloud ([Github](https://github.com/vtfrc/twitter-sentiment-analysis))
