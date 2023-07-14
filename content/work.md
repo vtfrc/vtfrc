@@ -29,7 +29,7 @@ I also have a passion for thinking, talking, and sharing. This, combined with my
 ### Extras
 
 - **Certificate in Advanced English, C2 CEFR level**, [Cambridge University Press & Assessment](https://www.cambridge.org/), *2023*
-- **Digital Media Producer**, [YouTube](https://youtube.com/@VittorioFaraco2) and several other channels, *2018 - present*
+- **Digital Media Producer**, [YouTube](https://youtube.com/@VittorioFaraco2) and other channels, *2018 - present*
 
 ### Projects
 
