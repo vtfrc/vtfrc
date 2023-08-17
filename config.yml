@@ -81,10 +81,10 @@ params:
     homeInfoParams:
         Title: "Vittorio Faraco"
         Content: >
-            I am a software engineer working on backend development and AI, and a MSc computer engineering student.
+            I am a software engineer, freelance consultant, and MSc computer engineering student.
             Among the areas I am interested in, are modern web development, data-oriented architectures, machine learning, recommender systems. One of my goals is to contribute to creating the next generation of e-health solutions.
             <br><br>
-            Below you can take a look at the online places where I'm active, and a list of articles and news, both technical and personal.
+            Below you can look at the online places where I'm active, and a list of articles and news, both technical and personal.
 
     socialIcons:
         - name: github
