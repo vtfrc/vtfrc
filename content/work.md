@@ -8,11 +8,11 @@ disableShare: true
 
 [You can download my CV from here](/Vittorio_Faraco_CV.pdf).
 
-My main interests are artificial intelligence and web development. I like to design and build models and solutions that solve real-world problems, especially in the health and wellness domains.
+My main interests are technology and business. I like to offer custom-tailored business consulting and to design and build tech solutions that solve real-world problems, especially in the health and wellness domains.
 
-I currently work as a backend engineer at [Blue Reply](https://www.reply.com/blue-reply/it/). I also advise companies on AI, data analysis, web-software development, and media. Working on full-stack applications, custom frontend or backend functionalities, data tools, chatbots, recommendation algorithms, and more, I am able to provide advanced solutions to exciting and challenging needs. Besides Python as a general scripting language and data-oriented tool, some of my other favorite technologies are currently Laravel, Nuxt, Supabase, and MySQL.
+I currently work as a backend engineer at [Blue Reply](https://www.reply.com/blue-reply/it/). I also advise companies on business development, IT infrastructure, AI and data solutions, and operations management. On the technical side, working on full-stack applications, custom frontend or backend functionalities, data tools, chatbots, recommendation engines, and more, I am able to provide advanced solutions to exciting and challenging needs. Besides Python as a general scripting language and data-oriented tool, some of my other favorite technologies are currently Laravel, Nuxt, Supabase, and MySQL.
 
-I love thinking, talking, and sharing. This, combined with my tech and analytical background, made me start sharing things online: I have multiple YouTube channels and websites where I share thoughts and connect with other amazing people. Visit both my [Italian channel](https://youtube.com/@VittorioFaraco) and my [English one](https://youtube.com/@VittorioFaraco2), and connect with me on [LinkedIn](https://linkedin.com/in/vittoriofaraco) and [Twitter](https://twitter.com/vittoriofaraco) for more.
+I love thinking, talking, and sharing. This, combined with my tech and analytical background, made me want to start sharing things online: I have multiple YouTube channels and websites where I share thoughts and connect with other amazing people. Visit both my [Italian channel](https://youtube.com/@VittorioFaraco) and my [English one](https://youtube.com/@VittorioFaraco2), and connect with me on [LinkedIn](https://linkedin.com/in/vittoriofaraco) and [Twitter](https://twitter.com/vittoriofaraco) for more.
 
 ## Short CV
 
