@@ -35,5 +35,5 @@ I love thinking, talking, and sharing. This, combined with my tech and analytica
 ### Projects
 
 - **Health Assistant and Monitoring App**: created and open-sourced [Healti](/healti): an experimental app to learn and test new technologies like Nuxt3 and Supabase, in one of the fields I love most ([Github](https://github.com/vtfrc/healti))
-- **Sub-Group Fairness Re-Ranker for RecSys**: developed an optimization-based re-ranking system for post-processing fairness (producer-calibrated and equality-based) and novelty enhancement in recommender systems (code to be released soon)
+- **Sub-Group Fairness Re-Ranker for RecSys**: developed an optimization-based re-ranking system for post-processing fairness (producer-calibrated and equality-based) and novelty enhancement in recommender systems
 - **Twitter Sentiment Analysis System**: built a lexicon-based engine that performs emotion recognition on Twitter data for my BSc thesis, using Python, Tweepy, NLTK, TextBlob, Plotly, WordCloud ([Github](https://github.com/vtfrc/twitter-sentiment-analysis))
