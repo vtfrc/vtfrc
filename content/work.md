@@ -19,7 +19,7 @@ I love thinking, talking, and sharing. This, combined with my tech and analytica
 ### Work
 
 - **Backend Engineer**, [Blue Reply IT](https://www.reply.com/blue-reply/it/), *2023 - present*
-- **Data and Web Consultant**, Freelance, *2021 - present*
+- **Consultant**, Freelance, *2021 - present*
 - **Research Intern**, [Polytechnic University of Bari](https://www.poliba.it) (Italy), *2022 - 2023*
 
 ### Education
