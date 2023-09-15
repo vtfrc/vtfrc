@@ -1,3 +1,0 @@
-**vfblog-new**
-
-hey!
