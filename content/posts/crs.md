@@ -1,5 +1,5 @@
 ---
-title: "Biased conversational recommendation "
+title: "Biased chats in RecSys"
 date: 2022-09-16T17:53:40+01:00
 draft: false
 ---
