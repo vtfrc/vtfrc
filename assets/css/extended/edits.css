@@ -25,6 +25,12 @@ code, pre {
     font-family: "fira", monospace;
 }
 
+code.post-content {
+    font-weight: 600;
+    color: var(--secondary);
+    background: var(--border);
+}
+
 .copy-code {
     font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
 }
