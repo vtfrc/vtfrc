@@ -15,7 +15,7 @@ That said, I had the pleasure to use some of the integrated modules from the (ri
 As of now, these are the features the project has:
 
 - user registration and authentication
-- ealth-related journaling
+- health-related journaling
 - exercise and nutrition logging (_to be added_)
 - WebSocket-based reminders (_to be completed_)
 
