@@ -22,7 +22,7 @@ As of now, these are the features the project has:
 While, since it is a backend project, these are the available endpoints:
 
 - `/register`, `/login` (for registration and authentication)
-- `/journal`, `/journal/entries`, journal/:id` (for journaling operations)
+- `/journal`, `/journal/entries`, `journal/:id` (for journaling operations)
 - `/exercise/entries`, `/exercise/:id` (for exercise logging, _to be added_)
 - `/nutrition/entries`, `/nutrition/:id` (for nutrition logging, _to be added_)
 - `/reminders`, `/reminder/:id` (for reminders, _to be added_)
