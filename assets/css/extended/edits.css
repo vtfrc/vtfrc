@@ -32,6 +32,11 @@ code, pre {
     border-radius: 0 !important;
 }
 
+.dark .post-content code {
+    color: var(--primary);
+    background: var(--entry);
+}
+
 .copy-code {
     font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
 }
@@ -115,11 +120,6 @@ body.dark {
     background: var(--theme);
 }
 
-.share-buttons, .toc {
-    background: var(--entry);
-    border: 1px solid var(--border);
-}
-
 .post-entry {
     position: relative;
     margin-bottom: calc(var(--gap) - 10px);
@@ -145,6 +145,7 @@ body.dark {
     background: var(--border);
     border: none;
     border-radius: 0;
+    padding-inline-start: 0;
 }
 
 .share-buttons a {
@@ -153,6 +154,7 @@ body.dark {
 
 .dark .share-buttons, .dark .toc {
     background: var(--entry);
+    padding-inline-start: 0;
 }
 
 .dark .share-buttons a {
