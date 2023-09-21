@@ -97,6 +97,8 @@ params:
           url: "https://linkedin.com/in/vittoriofaraco"
         - name: twitter
           url: "https://twitter.com/vittoriofaraco"
+        - name: googlescholar
+          url: "https://scholar.google.com/citations?user=1tpnuWsAAAAJ"
         - name: email
           url: "mailto:faracovittorio@gmail.com"
 
