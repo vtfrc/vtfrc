@@ -27,6 +27,10 @@ I love thinking, talking, and sharing. This, combined with my tech and analytica
 - **MSc in Computer Engineering**, [Polytechnic University of Bari](https://www.poliba.it) (Italy), *2021 - 2023*
 - **BSc in Computer and Automation Engineering**, [Polytechnic University of Bari](https://www.poliba.it) (Italy), *2018 - 2021*
 
+### Publications
+
+- ** G. Pellegrini, V. M. Faraco, Y. Deldjoo - [Fairness for All: Investigating Harms to Within-Group Individuals in Producer Fairness Re-ranking Optimization -- A Reproducibility Study](https://doi.org/10.48550/arXiv.2309.09277) - ArXiv preprint, arXiv:2309.09277, 2023
+
 ### Extras
 
 - **Certificate in Advanced English, C2 CEFR level**, [Cambridge University Press & Assessment](https://www.cambridge.org/), *2023*
@@ -35,5 +39,5 @@ I love thinking, talking, and sharing. This, combined with my tech and analytica
 ### Projects
 
 - **Health Assistant and Monitoring App**: created and open-sourced [Healti](/healti): an experimental app to learn and test new technologies like Nuxt3 and Supabase, in one of the fields I love most ([Github](https://github.com/vtfrc/healti))
-- **Sub-Group Fairness Re-Ranker for RecSys**: developed an optimization-based re-ranking system for post-processing fairness (producer-calibrated and equality-based) and novelty enhancement in recommender systems
+- **Sub-Group Fairness Re-Ranker for RecSys**: developed an optimization-based re-ranking system for post-processing fairness (producer-calibrated and equality-based) and novelty enhancement in recommender systems (paper above)
 - **Twitter Sentiment Analysis System**: built a lexicon-based engine that performs emotion recognition on Twitter data for my BSc thesis, using Python, Tweepy, NLTK, TextBlob, Plotly, WordCloud ([Github](https://github.com/vtfrc/twitter-sentiment-analysis))
