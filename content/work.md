@@ -29,7 +29,7 @@ I love thinking, talking, and sharing. This, combined with my tech and analytica
 
 ### Publications
 
-- ** G. Pellegrini, V. M. Faraco, Y. Deldjoo - [Fairness for All: Investigating Harms to Within-Group Individuals in Producer Fairness Re-ranking Optimization -- A Reproducibility Study](https://doi.org/10.48550/arXiv.2309.09277) - ArXiv preprint, arXiv:2309.09277, 2023
+- *[Fairness for All: Investigating Harms to Within-Group Individuals in Producer Fairness Re-ranking Optimization -- A Reproducibility Study](https://doi.org/10.48550/arXiv.2309.09277)* - G. Pellegrini, V. M. Faraco, Y. Deldjoo - ArXiv preprint, arXiv:2309.09277, 2023
 
 ### Extras
 
