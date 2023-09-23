@@ -26,7 +26,6 @@ code, pre {
 }
 
 .post-content code {
-    font-weight: 600;
     color: var(--secondary);
     background: var(--border);
     border-radius: 0 !important;
