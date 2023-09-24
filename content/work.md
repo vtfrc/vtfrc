@@ -10,7 +10,7 @@ disableShare: true
 
 My main interests are technology, business, and media. I like both the more theoretical aspects of research – particularly about ML fairness, recommender systems, and causality – and the more applied ones of the industry – especially regarding software architecture and backend systems.
 
-I am a backend engineer at [Blue Reply](https://www.reply.com/blue-reply/it/), working on information processing systems in the banking sector. I also advise companies on business and IT strategy, R&D, and innovation management. On the technical side, I like to work on a wide range of tools – information systems, chatbots, recommendation engines, and more. Some of my favorite technologies are currently Python, Laravel, Nuxt, Supabase, and MySQL.
+I am a backend engineer at [Blue Reply](https://www.reply.com/blue-reply/it/), working on information processing systems in the banking sector. I also advise companies on business and IT strategy, R&D, and innovation management as a freelance consultant. On the technical side, some of my favorite tools are currently Python, Laravel, Nuxt, Supabase, and MySQL. A few other areas I find intriguing are e-health, wellness, digital media, and intelligent transport.
 
 ## Short CV
 
