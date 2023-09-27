@@ -1,5 +1,5 @@
 ---
-title: "Apparently you should use .txt files"
+title: "Plain text"
 date: 2023-01-19T17:53:40+01:00
 draft: false
 ---
