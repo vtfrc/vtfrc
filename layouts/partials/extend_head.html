@@ -1,0 +1,3 @@
+{{ if or .Params.katex .Site.Params.katex}}
+{{ partial "scripts/katex.html" . }}
+{{ end }}
