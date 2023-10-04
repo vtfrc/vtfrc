@@ -12,7 +12,7 @@ Conversational recommender systems (CRSs) are still pretty new and premature, bu
 
 The first one refers to:
 
-> […] the phenomenon of the user preference elicitation process being dominated by the system only asking the user’s preferences on a small subset of the entire domain-specific attributes. 
+> […] the phenomenon of the user preference elicitation process being dominated by the system only asking the user’s preferences on a small subset of the entire domain-specific attributes.
 
 while the second is the wrong assumption that success rate (SR@t, the system ability to recommend the ground truth item by turn t) is the ideal evaluation metric for CRS.
 
@@ -25,4 +25,4 @@ I think these are great starting points for future research and they can lead to
 
 ### References
 
-[^1] Allen Lin, Ziwei Zhu, Jiangling Wang, James Caverlee. Towards Fair Conversational Recommender Systems. arXiv:2208.03654.
+[^1]: Allen Lin, Ziwei Zhu, Jiangling Wang, James Caverlee. Towards Fair Conversational Recommender Systems. arXiv:2208.03654.
