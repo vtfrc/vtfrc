@@ -36,6 +36,8 @@ code, pre {
     background: var(--entry);
 }
 
+/* Next 3 are for diagrams for scientific articles (color and centering) */
+
 .dark .diagram {
     filter: invert(1);
 }
