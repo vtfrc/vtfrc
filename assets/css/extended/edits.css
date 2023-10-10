@@ -21,11 +21,6 @@
     src: url("/FiraCode-Regular.ttf") format('truetype');
 }
 
-::selection {
-    background-color: var(--primary);
-    color: var(--theme);
-}
-
 code, pre {
     font-family: "fira", monospace;
 }
