@@ -21,6 +21,11 @@
     src: url("/FiraCode-Regular.ttf") format('truetype');
 }
 
+::selection {
+    background: var(--primary);
+    color: var(--theme);
+}
+
 code, pre {
     font-family: "fira", monospace;
 }
@@ -35,6 +40,8 @@ code, pre {
     color: var(--primary);
     background: var(--entry);
 }
+
+/* Next 3 are for paper-like article diagrams and figures */
 
 .dark .diagram {
     filter: invert(1);
