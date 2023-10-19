@@ -35,6 +35,8 @@ languages:
                   weight: 10
                 - name: Newsletter
                   url: https://vittoriofaraco.substack.com/
+                - name: Kleia
+                  url: https://kleia.substack.com/
                 - name: Contacts
                   url: mailto:faracovittorio@gmail.com
 
