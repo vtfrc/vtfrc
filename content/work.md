@@ -34,6 +34,6 @@ I am a backend engineer at [Blue Reply](https://www.reply.com/blue-reply/it/), w
 
 ### Projects
 
-- **Health Assistant and Monitoring App**: created and open-sourced [Healti](/healti): an experimental app to learn and test new technologies like Nuxt3 and Supabase, in one of the fields I love most ([Github](https://github.com/vtfrc/healti))
-- **Sub-Group Fairness Re-Ranker for RecSys**: developed an optimization-based re-ranking system for post-processing fairness (producer-calibrated and equality-based) and novelty enhancement in recommender systems (paper above)
-- **Twitter Sentiment Analysis System**: built a lexicon-based engine that performs emotion recognition on Twitter data for my BSc thesis, using Python, Tweepy, NLTK, TextBlob, Plotly, WordCloud ([Github](https://github.com/vtfrc/twitter-sentiment-analysis))
+- **Health Assistant and Monitoring App**: created and open-sourced [Healti](/healti), an app that modernizes the personal health record management experience ([Github](https://github.com/vtfrc/healti))
+- **Sub-Group Fairness Re-Ranker for RecSys**: developed an optimization-based re-ranking system for post-processing fairness and novelty enhancement in recommender systems (paper above)
+- **Twitter Sentiment Analysis System**: built a lexicon-based engine that performs emotion recognition on Twitter data for my BSc thesis ([Github](https://github.com/vtfrc/twitter-sentiment-analysis))
