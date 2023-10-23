@@ -46,7 +46,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "I am a computer engineer focusing on AI and software development, particularly interested in the health space."
+    description: "Computer engineer, writer at Kleia. I am Vittorio Faraco and this is my personal website."
     author: Vittorio Faraco
     # author: ["Me", "You"] # multiple authors
 
