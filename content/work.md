@@ -8,7 +8,7 @@ disableShare: true
 
 My main interests are technology, business, and media. I've always been fascinated by the power of writing, and most of what I do revolves around it: code, documentation, organization, publishing. [You can read my thoughts over at Kleia, my newsletter](https://kleia.substack.com).
 
-I'm a backend engineer at [Blue Reply](https://www.reply.com/blue-reply/it/), working on information processing systems in the banking sector. I also advise companies on business and IT strategy, R&D, and innovation management as a freelance consultant. On the technical side, some of my favorite tools are currently Python, Go, Laravel, Rails, Nuxt, HTMX, Supabase, Railway. A few other areas I find intriguing are e-health, wellness, digital media, and intelligent transport.
+I'm a backend engineer at [Blue Reply](https://www.reply.com/blue-reply/it/), working on information processing systems in the banking sector. I also advise companies on business and IT strategy, R&D, and innovation management as a freelance consultant. On the technical side, some of my favorite tools are currently Python, Laravel, Nuxt, HTMX, Supabase. A few other areas I find intriguing are e-health, wellness, digital media, and intelligent transport.
 
 ## Resumé
 
