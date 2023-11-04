@@ -25,7 +25,7 @@ So, I considered:
 
 Go's solution is way too minimal, Rails is interesting, FastAPI is too minimal as well, and I didn't try any demo with Django (for some reason I tried to stay away from Python).
 
-I would've used [HTMX](https://htmx.org) with Go/Python, [Hotwire](https://hotwired.dev) with Rails, and Livewire or HTMX with Laravel.
+I would've used [HTMX](https://htmx.org) with Go/Python, [Hotwire](https://hotwired.dev) with Rails, and [Livewire](https://livewire.laravel.com) or HTMX with Laravel.
 
 Well, since I had already worked with Laravel once, and I love how fast you can get an app running with it (not just development but even deployment with Forge), I went with it.
 
