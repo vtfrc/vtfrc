@@ -43,7 +43,7 @@ Physical exercise is another crucial element of preventative healthcare. The typ
 
 As a software engineer myself, I spend way too much time sitting in front of screens. The way I’m trying to counterbalance this is by lifting weights at the gym around 3 times a week, walking at least 8,000-10,000 steps a day, and taking every occasion I have during work to move around. I don’t know if it’s enough, but given I want to be working in this field (and thus with these conditions), and I enjoy these forms of exercise more than everything else, it’s a viable option for me.
 
-## The social media effect on health and fitness
+### The social media effect on health and fitness
 
 An often overlooked but significant factor in today's health landscape is the role of social media in promoting a culture of well-being. Platforms like Instagram, YouTube, and even TikTok pose many risks, but they also have transformed the way we perceive fitness and health. Once viewed as boring or niche, exercise and a balanced diet have now been elevated to lifestyle choices, often glamorized and popularized by both social media influencers and individuals.
 
