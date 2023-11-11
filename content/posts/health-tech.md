@@ -8,6 +8,8 @@ In today’s techno-society, one of the areas that most need to be pushed forwar
 
 But technology alone can’t solve it all. We have to follow two different, complementary pathways in which modern instruments are just part of the equation.
 
+---
+
 ## 1: Technology to cure
 
 The healthcare sector has always needed technology. It plays an essential role in both diagnosing and treating diseases. Advanced imaging techniques like MRI and CT scans have increased diagnostic accuracy, allowing medical professionals to provide more specific treatments. Robotic-assisted surgical systems, like the da Vinci Surgical System, offer precise, minimally invasive options that can result in fewer complications and quicker recovery times.
@@ -51,7 +53,11 @@ The appeal of such posts is twofold. First, they serve to inspire. When we see r
 
 This is not to discount the pitfalls associated with the social media portrayal of health: concerns around body image and the potential for misinformation do exist and are real problems. However, on balance, I think the net effect is largely positive.
 
+---
+
 ## More things to think about
+
+---
 
 ### X engineering results
 
@@ -65,11 +71,15 @@ Work is 100% one of the main sources of stress we have, for obvious reasons. The
 
 These require a good amount of flexibility and curiosity, in my opinion. You should be able to investigate what works in the current environment, explore that, and integrate it with your passions and skills to plant seeds in different, promising places. This newsletter and every form of (conscious) online activity are good examples. Diving deeper into a topic that’s adjacent to what you do but highly in demand is a good example. There are lots of interesting “little” things you can do, but maybe this is a topic for another issue.
 
+---
+
 ### In response to the techno-optimism manifesto
 
 I listened to a16z’s Marc Andreessen Techno-Optimist Manifesto podcast. The corresponding essay has been heavily debated in the tech world lately, largely due to an apparent blind trust in technology-driven progress.
 
 I think these conversations are both interesting and important to have, but getting a deeper context on the topics that are explored through the podcast made me appreciate several of the considerations. While skepticism is good, I don’t see any other viable way of going forward today than being excited about solving problems through tech (but I also think problems are there, and ignoring them is not a good move).
+
+---
 
 ### A clever way to join the content machine
 
