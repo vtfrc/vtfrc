@@ -82,13 +82,13 @@ params:
         Title: "Vittorio Faraco"
         Content: >
             I'm a software engineer, freelance consultant, and MSc computer engineering student.
-            I write [Kleia](https://kleia.substack.com), a newsletter about innovation and things
-            I'm learning, and I'm building [a couple of platforms](https://kleia.substack.com/p/projects)
+            I write [Kleia](https://kleiamedia.com), a blog about innovation and things
+            I'm learning, and I'm building [a couple of platforms](https://kleiamedia.com/about)
             for innovation and healthcare.
             <br><br>
             Among the areas I'm interested in are software architecture, information retrieval,
             business strategy, and media. Below you can look at the online places where I'm active
-            and at my latest articles/updates.
+            and at my latest articles.
 
     socialIcons:
         - name: github
