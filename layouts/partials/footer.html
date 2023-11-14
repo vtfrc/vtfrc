@@ -8,7 +8,14 @@
     <span>
         - P. Iva &zwj;01384150775
     </span>
+    <a href="/privacy">Privacy policy</a>
 </footer>
+
+<div id="cookieConsentContainer" class="cookie-consent-container hide">
+    <p>This website uses cookies to ensure you get the best experience on our website.</p>
+    <button id="cookieConsentDecline" class="cookie-button decline">Decline</button>
+    <button id="cookieConsentAccept" class="cookie-button">Accept</button>
+</div>
 {{- end }}
 
 {{- if (not site.Params.disableScrollToTop) }}
@@ -131,3 +138,25 @@
     });
 </script>
 {{- end }}
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var consent = localStorage.getItem("cookieConsent");
+
+        if (consent !== "true" && consent !== "false") {
+            document.getElementById("cookieConsentContainer").style.display = "block";
+        }
+
+        document.getElementById("cookieConsentAccept").onclick = function() {
+            localStorage.setItem("cookieConsent", "true");
+            document.getElementById("cookieConsentContainer").style.display = "none";
+            // Space for scripts that should only run after accepting cookies
+        };
+
+        document.getElementById("cookieConsentDecline").onclick = function() {
+            localStorage.setItem("cookieConsent", "false");
+            document.getElementById("cookieConsentContainer").style.display = "none";
+            // Space for the case where cookies are declined
+        };
+    });
+</script>

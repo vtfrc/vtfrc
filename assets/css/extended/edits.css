@@ -187,3 +187,43 @@ body.dark {
 #searchResults .post-entry {
     border-radius: 0 !important;
 }
+
+.cookie-consent-container {
+    position: fixed;
+    bottom: 20px;
+    background-color: var(--theme);
+    border: 1px solid var(--border);
+    color: var(--primary);
+    text-align: center;
+    padding: 10px;
+    width: 57.5%;
+    left: 50%;
+    transform: translate(-50%);
+    z-index: 1000;
+    font-size: 16px;
+}
+
+.cookie-button {
+    color: var(--theme);
+    background-color: var(--primary);
+    padding: 5px 10px;
+    margin: 5px 0;
+    border: none;
+    cursor: pointer;
+}
+
+.cookie-button.decline {
+    background-color: var(--border);
+    color: var(--primary);
+}
+
+.cookie-consent-container.hide {
+    display: none;
+}
+
+@media screen and (max-width: 1024px) {
+    .cookie-consent-container {
+        width: 92.5%;
+    }
+}
+
