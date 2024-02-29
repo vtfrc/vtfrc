@@ -20,7 +20,7 @@ I'm a backend engineer at [Blue Reply](https://www.reply.com/blue-reply/it/), wo
 
 ### Education
 
-- **MSc in Computer Engineering**, [Polytechnic University of Bari](https://www.poliba.it) (Italy), *2021 - 2023*
+- **MSc in Computer Engineering**, [Polytechnic University of Bari](https://www.poliba.it) (Italy), *2021 - 2024*
 - **BSc in Computer and Automation Engineering**, [Polytechnic University of Bari](https://www.poliba.it) (Italy), *2018 - 2021*
 
 ### Publications
