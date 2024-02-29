@@ -83,12 +83,10 @@ params:
         Content: >
             I'm a software engineer and freelance consultant.
             I write [Kleia](https://kleiamedia.com), a blog and newsletter about innovation and things
-            I'm learning, and I'm building [platforms](https://kleiamedia.com/about)
-            for innovation and healthcare.
+            I'm learning, and I'm building a [platform](https://healti.net)
+            for modern health data management.
             <br><br>
-            Among the areas I'm interested in are system design, information retrieval,
-            business strategy, and media. Below you can look at the online places where I'm active
-            and at my latest articles.
+            Among the areas I'm interested in are system design, information retrieval,business strategy, and media. Below you can look at the online places where I'm active and at my latest articles.
 
     socialIcons:
         - name: github
