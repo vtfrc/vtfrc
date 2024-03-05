@@ -34,7 +34,7 @@ languages:
                   url: search/
                   weight: 10
                 - name: Newsletter
-                  url: https://kleia.substack.com/
+                  url: https://kleiamedia.com/
                 - name: Contacts
                   url: mailto:faracovittorio@gmail.com
 
