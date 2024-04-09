@@ -62,6 +62,7 @@ params:
     # comments: false
     images: ["/twitter.png", "/logo.png"]
     twitter_cards: true
+    label.text = "vtfrc"
 
     profileMode:
         enabled: false
