@@ -34,7 +34,7 @@ languages:
                   url: search/
                   weight: 10
                 - name: Contacts
-                  url: mailto:faracovittorio@gmail.com
+                  url: mailto:vittorio@kleia.co
 
 outputs:
     home:
@@ -99,7 +99,7 @@ params:
         - name: googlescholar
           url: "https://scholar.google.com/citations?user=1tpnuWsAAAAJ"
         - name: email
-          url: "mailto:faracovittorio@gmail.com"
+          url: "mailto:vittorio@kleia.co"
 
     # label:
     #    text: ""
