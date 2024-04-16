@@ -1,5 +1,5 @@
 baseURL: "https://vtfrc.com/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: Vittorio Faraco
+title: vtfrc
 
 paginate: 20
 theme: "PaperMod"
@@ -45,7 +45,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Software engineer. I am Vittorio Faraco and this is my personal website."
-    author: Vittorio Faraco
+    author: vtfrc
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -67,7 +67,7 @@ params:
 
     profileMode:
         enabled: false
-        title: Vittorio Faraco
+        title: Vittorio
         imageUrl: "#"
         imageTitle: my image
         # imageWidth: 120
@@ -79,7 +79,7 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Vittorio Faraco"
+        Title: "Vittorio"
         Content: >
             I'm a software engineer. I created [Kleia](https://kleia.co) to share and build innovative
             projects like [Healti](https://healti.net), a platform for modern health data management.
