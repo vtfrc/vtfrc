@@ -6,15 +6,15 @@ ShowToc: false
 disableShare: true
 ---
 
-My main interests are technology, business, and media. I've always been fascinated by the power of writing, and most of what I do revolves around it: code, documentation, organization, publishing.
+My main interests are technology, business, and media. I've also always loved writing, and most of what I do revolves around it: code, documentation, organization, sharing.
 
-I'm a backend engineer at [Blue Reply](https://www.reply.com/blue-reply/it/), working on information processing systems in the banking sector. I'm currently building a side project, [Healti](https://healti.net), for health data management. I also advise companies on business and IT strategy, R&D, and innovation management as a freelance consultant. On the technical side, some of the tools I currently use daily are Python, Java, PHP, Spring, Laravel, Vue, Flutter, Kafka, and Hugo. A few other areas I find intriguing are e-health, wellness, digital media, and intelligent transport.
+I'm currently a software engineer at [Blue Reply](https://www.reply.com/blue-reply/it/), working on information processing systems in the financial sector. I'm also building a side project, [Healti](https://healti.net), for digital health data management. I occasionally advise companies on business/IT strategy, R&D, and innovation management. On the technical side, some of the tools I use daily are Python, Java, PHP, Spring, Laravel, Vue, Flutter, Kafka, and Hugo. A few domains I find intriguing are e-health, wellness, digital media, and intelligent transport.
 
 ## Resumé
 
 ### Work
 
-- **Backend Engineer**, [Blue Reply IT](https://www.reply.com/blue-reply/it/), *2023 - present*
+- **Software Engineer**, [Blue Reply IT](https://www.reply.com/blue-reply/it/), *2023 - present*
 - **Consultant**, Freelance, *2021 - present*
 - **Research Intern**, [Polytechnic University of Bari](https://www.poliba.it) (Italy), *2022 - 2023*
 
@@ -34,6 +34,6 @@ I'm a backend engineer at [Blue Reply](https://www.reply.com/blue-reply/it/), wo
 
 ### Projects
 
-- **Health Assistant and Monitoring App**: created and open-sourced [Healti](/healti), an app that modernizes the personal health record management experience ([Github](https://github.com/vtfrc/healti))
+- **Digital Health Record App**: created [Healti](/healti), an app that modernizes the personal health record management experience ([check it out here](https://healti.net))
 - **Sub-Group Fairness Re-Ranker for RecSys**: developed an optimization-based re-ranking system for post-processing fairness and novelty enhancement in recommender systems (paper above)
 - **Twitter Sentiment Analysis System**: built a lexicon-based engine that analyzes Twitter data's sentiment for my BSc thesis ([Github](https://github.com/vtfrc/twitter-sentiment-analysis))
