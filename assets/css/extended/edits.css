@@ -66,6 +66,10 @@ strong>a {
     font-weight: bold !important;
 }
 
+.logo a {
+    font-weight: 700 !important;
+}
+
 body {
     font-size: 20px;
 }
