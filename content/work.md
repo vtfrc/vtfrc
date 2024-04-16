@@ -4,6 +4,7 @@ date: 2023-02-27T19:14:38+01:00
 draft: false
 ShowToc: false
 disableShare: true
+hidemeta: true
 ---
 
 My main interests are technology, business, and media. I've also always loved writing, and most of what I do revolves around it: code, documentation, organization, sharing.
