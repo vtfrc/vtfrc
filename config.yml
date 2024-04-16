@@ -88,14 +88,14 @@ params:
             Below you can look at the online places where I'm active and at my latest updates.
 
     socialIcons:
+        - name: x
+          url: "https://x.com/vtfrc"
         - name: github
           url: "https://github.com/vtfrc"
         - name: youtube
           url: "https://youtube.com/@VittorioFaraco2"
         - name: linkedin
           url: "https://linkedin.com/in/vittoriofaraco"
-        - name: twitter
-          url: "https://x.com/vtfrc"
         - name: googlescholar
           url: "https://scholar.google.com/citations?user=1tpnuWsAAAAJ"
         - name: email
