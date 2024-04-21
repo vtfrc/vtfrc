@@ -9,7 +9,7 @@ hidemeta: true
 
 My main interests are technology, business, and media. I've also always loved writing, and most of what I do revolves around it: code, documentation, organization, sharing.
 
-I'm currently a software engineer at [Blue Reply](https://www.reply.com/blue-reply/it/), working on information processing systems in the financial sector. I'm also building a side project, [Healti](https://healti.net), for digital health data management. I occasionally advise companies on business/IT strategy, R&D, and innovation management. On the technical side, some of the tools I use daily are Python, Java, PHP, Spring, Laravel, Vue, Flutter, Kafka, and Hugo. A few domains I find intriguing are e-health, wellness, digital media, and intelligent transport.
+I'm currently a software engineer at [Blue Reply](https://www.reply.com/blue-reply/it/), working on information processing systems in the financial sector. I'm also building personal startups, like [Healti](https://healti.net), a digital health data manager, and [WorkHaut](https://workhaut.com), an AI career advisor. I occasionally advise companies on business and innovation strategy. On the technical side, some of the tools I use daily and love are Python, Java, PHP, Spring, Laravel, Vue, Flutter, Kafka, and Hugo. A few domains I find intriguing are e-health, wellness, digital media, and intelligent transport.
 
 ## Resumé
 
