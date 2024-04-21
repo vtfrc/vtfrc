@@ -142,7 +142,7 @@ body.dark {
 }
 
 .list {
-    var(--theme);
+    background: var(--theme);
 }
 
 .post-entry {
