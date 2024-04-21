@@ -35,6 +35,6 @@ I'm currently a software engineer at [Blue Reply](https://www.reply.com/blue-rep
 
 ### Projects
 
-- **Digital Health Record App**: created [Healti](/healti), an app that modernizes the personal health record management experience ([check it out here](https://healti.net))
+- **AI Career Advisor App**: developing WorkHaut, a platform to assess your current fit in the job market, and to get recommendations on how to attract more and better work ([check it out here](https://workhaut.com))
+- **Digital Health Record App**: creating [Healti](/healti), an app that modernizes the personal health record management experience ([check it out here](https://healti.net))
 - **Sub-Group Fairness Re-Ranker for RecSys**: developed an optimization-based re-ranking system for post-processing fairness and novelty enhancement in recommender systems (paper above)
-- **Twitter Sentiment Analysis System**: built a lexicon-based engine that analyzes Twitter data's sentiment for my BSc thesis ([Github](https://github.com/vtfrc/twitter-sentiment-analysis))
