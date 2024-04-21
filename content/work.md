@@ -16,7 +16,7 @@ I'm currently a software engineer at [Blue Reply](https://www.reply.com/blue-rep
 ### Work
 
 - **Software Engineer**, [Blue Reply IT](https://www.reply.com/blue-reply/it/), *2023 - present*
-- **Consultant**, Freelance, *2021 - present*
+- **Consultant and Startup Builder**, Freelance, *2021 - present*
 - **Research Intern**, [Polytechnic University of Bari](https://www.poliba.it) (Italy), *2022 - 2023*
 
 ### Education
