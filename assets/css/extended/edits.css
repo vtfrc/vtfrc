@@ -130,7 +130,7 @@ body {
 }
 
 body {
-    background: var(--code-bg);
+    background: var(--theme);
     -webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
