@@ -190,7 +190,7 @@ body.dark {
 .cookie-consent-container {
     position: fixed;
     bottom: 20px;
-    background-color: var(--code-bg);
+    background-color: var(--theme);
     border: 1px solid var(--border);
     color: var(--primary);
     text-align: center;
@@ -200,10 +200,6 @@ body.dark {
     transform: translate(-50%);
     z-index: 1000;
     font-size: 16px;
-}
-
-.dark .cookie-consent-container {
-    background-color: var(--theme);
 }
 
 .cookie-button {
