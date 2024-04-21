@@ -141,6 +141,10 @@ body.dark {
     background: var(--theme);
 }
 
+.list {
+    var(--theme);
+}
+
 .post-entry {
     position: relative;
     margin-bottom: calc(var(--gap) - 10px);
