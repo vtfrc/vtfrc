@@ -166,7 +166,7 @@ body.dark {
     }
 }
 
-.share-buttons, .toc {
+.share-buttons {
     background: var(--tertiary);
     border: none;
     border-radius: 0;
