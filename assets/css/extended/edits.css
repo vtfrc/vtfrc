@@ -177,6 +177,17 @@ body.dark {
     color: var(--content);
 }
 
+.toc {
+    background: var(--code-bg);
+    border: none;
+    border-radius: 0;
+    padding-inline-start: 0;
+}
+
+.dark .toc {
+    background: var(--entry);
+}
+
 #searchInput,
 #searchResults .post-entry {
     border-radius: 0 !important;
