@@ -167,23 +167,14 @@ body.dark {
 }
 
 .share-buttons, .toc {
-    background: var(--border);
+    background: var(--tertiary);
     border: none;
     border-radius: 0;
     padding-inline-start: 0;
 }
 
 .share-buttons a {
-    color: var(--secondary);
-}
-
-.dark .share-buttons, .dark .toc {
-    background: var(--entry);
-    padding-inline-start: 0;
-}
-
-.dark .share-buttons a {
-    color: var(--primary);
+    color: var(--content);
 }
 
 #searchInput,
