@@ -63,7 +63,7 @@ params:
     images: ["/twitter.png", "/logo.png"]
     twitter_cards: true
     label:
-        text: "Kleia"
+        text: "vtfrc"
 
     profileMode:
         enabled: false
