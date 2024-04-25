@@ -141,6 +141,21 @@ body.dark {
     background: var(--theme);
 }
 
+::-webkit-scrollbar {
+    width: 19px !important;
+    height: 11px !important;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--tertiary) !important;
+    border: 5px solid var(--theme) !important;
+    border-radius: var(--radius) !important;
+}
+
+::-webkit-scrollbar-track {
+    background: 0 0 !important;
+}
+
 .list {
     background: var(--theme);
 }
