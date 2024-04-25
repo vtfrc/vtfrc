@@ -43,6 +43,7 @@
       {{- end }}
     </ul>
 
+    {{- if not (.Param "hideNewsletter") }}
     <p class="post-content">Subscribe to the newsletter to get content like this in your inbox.</p>
     <style type="text/css">
     /* LOADER */
@@ -725,6 +726,7 @@
         <script>
             fetch("https://assets.mailerlite.com/jsonp/921083/forms/119439482279691889/takel")
         </script>
+    {{- end }}
     
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
