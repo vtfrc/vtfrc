@@ -5,6 +5,7 @@ draft: false
 ShowToc: false
 disableShare: true
 hidemeta: true
+hidenewsletter: true
 ---
 
 My main interests are technology, business, and media. I've also always loved writing, and most of what I do revolves around it: code, documentation, organization, sharing.
