@@ -168,7 +168,7 @@ body.dark {
     background: none;
     border-radius: 0;
     transition: transform .1s;
-    border: 2px solid var(--border);
+    border: 1px solid var(--tertiary);
     border-top: none;
     border-left: none;
     border-right: none;
