@@ -36,6 +36,10 @@ code, pre {
     background: var(--entry);
 }
 
+.post-content hr {
+    height: 1px;
+}
+
 /* Next 3 are for paper-like article diagrams and figures */
 
 .dark .diagram {
