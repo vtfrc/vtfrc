@@ -182,8 +182,8 @@ body.dark {
 }
 
 .share-buttons {
-    background: var(--tertiary);
-    border: none;
+    background: none;
+    border: 1px solid var(--tertiary);
     border-radius: 0;
     padding-inline-start: 0;
 }
@@ -193,14 +193,14 @@ body.dark {
 }
 
 .toc {
-    background: var(--code-bg);
-    border: none;
+    background: none;
+    border: 1px solid var(--tertiary);
     border-radius: 0;
     padding-inline-start: 0;
 }
 
 .dark .toc {
-    background: var(--entry);
+    background: none;
 }
 
 #searchInput,
