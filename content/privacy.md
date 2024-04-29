@@ -5,6 +5,7 @@ draft: false
 ShowToc: false
 disableShare: true
 hidenewsletter: true
+hidemeta: true
 ---
 
 This privacy policy outlines how we collect, use, protect, and handle personal information on our website: [vittoriofaraco.com](/).
