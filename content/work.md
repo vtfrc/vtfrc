@@ -3,7 +3,7 @@ title: "Work"
 date: 2023-02-27T19:14:38+01:00
 draft: false
 ShowToc: false
-disableShare: true
+hideShareButton: true
 hidemeta: true
 hidenewsletter: true
 ---
