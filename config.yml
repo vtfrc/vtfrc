@@ -44,7 +44,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "I'm Vittorio, a software engineer from Italy building and sharing about innovative projects."
+    description: "I'm Vittorio, a software engineer from Italy building and sharing about innovation."
     author: vtfrc
     # author: ["Me", "You"] # multiple authors
 
@@ -81,11 +81,9 @@ params:
     homeInfoParams:
         Title: "Vittorio"
         Content: >
-            I'm a software engineer. Through [Kleia](https://kleia.co), I share and build projects like
-            [Healti](https://healti.net), a modern health data manager, and [WorkHaut](https://workhaut.com),
-            an AI career advisor.
-            <br><br>
-            Below you can subscribe to the newsletter and read the posts.
+            I'm a software engineer. Through [Kleia](https://kleia.co), I share about innovation and
+            use it to grow businesses and careers.<br><br>Below you can subscribe to the newsletter
+            and read the posts.
 
     socialIcons:
         - name: x
