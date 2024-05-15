@@ -81,9 +81,8 @@ params:
     homeInfoParams:
         Title: "Vittorio"
         Content: >
-            I'm a software engineer. Through [Kleia](https://kleia.co), I share about innovation and
-            use it to grow businesses and careers.<br><br>Below you can subscribe to the newsletter
-            and read some posts.
+            I'm a software engineer. I created [Kleia](https://kleia.co), an innovation hub for
+            streamlined growth.<br><br>Below you can subscribe to the newsletter and read some posts.
 
     socialIcons:
         - name: x
