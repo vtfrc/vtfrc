@@ -91,6 +91,10 @@ body {
     color: var(--primary);
 }
 
+.first-entry.home-info {
+    margin-top: 0;
+}
+
 @media (max-width: 1024px) {
     body {
         font-size: 19px;
