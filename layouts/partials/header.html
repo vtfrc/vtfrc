@@ -180,7 +180,7 @@
             <div class="line"></div>
             <div class="line" style="margin-bottom: 0"></div>
         </button>
-        <ul id="menu">
+        <ul id="menu" class="menu-desktop">
             {{- range site.Menus.main }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
             {{- $page_url:= $currentPage.Permalink | absLangURL }}
