@@ -82,7 +82,7 @@ params:
         Title: "Vittorio"
         Content: >
             I'm a software engineer. I created [Kleia](https://kleia.co), an innovation hub for
-            streamlined growth.<br><br>Below you can subscribe to the newsletter and read some posts.
+            streamlined growth. Below you can subscribe to the newsletter and read some posts.
 
     socialIcons:
         - name: x
