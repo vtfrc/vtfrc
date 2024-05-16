@@ -27,6 +27,8 @@ We use cookies to enhance your experience on our website. Cookies are small file
 
 We do not sell, trade, or otherwise transfer your Personally Identifiable Information to outside parties unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential.
 
+Our website provides a form to subscribe to our newsletter, which is managed by MailerLite, an external third-party service provider. We do not collect or store any personal data for our newsletter subscription on our website. By subscribing to our newsletter via MailerLite, you agree to the collection and processing of your data by MailerLite. Please review [MailerLite’s Privacy Policy]([https://substack.com/privacy](https://www.mailerlite.com/legal/privacy-policy)) to understand how they handle your personal information. If you choose to subscribe, your interaction and data provision are governed by MailerLite’s policies and terms.
+
 ## 4. User Rights
 
 Under the GDPR, you have various rights including:
