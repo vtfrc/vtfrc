@@ -8,7 +8,7 @@ hidenewsletter: true
 hidemeta: true
 ---
 
-This privacy policy outlines how we collect, use, protect, and handle personal information on our website: [vittoriofaraco.com](/).
+This privacy policy outlines how we collect, use, protect, and handle personal information on our website: [vtfrc.com](/).
 
 ## 1. Data Collection and Use
 
@@ -39,7 +39,7 @@ Under the GDPR, you have various rights including:
 - Restrict Processing: You have the right to request that we restrict the processing of your personal data, under certain conditions.
 - Data Portability: You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
 
-If you make a request, we have one month to respond to you. To exercise any of these rights, please contact us at our email: [faracovittorio AT gmail DOT com](mailto:faracovittorio@gmail.com).
+If you make a request, we have one month to respond to you. To exercise any of these rights, please contact us at our email: [vittorio AT kleia DOT co](mailto:vittorio@kleia.co).
 
 ## 5. Data Security
 
@@ -51,4 +51,4 @@ We may update this privacy policy from time to time. We will notify you of any c
 
 ## 7. Contact Information
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [faracovittorio AT gmail DOT com](mailto:faracovittorio@gmail.com).
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [vittorio AT kleia DOT co](mailto:vittorio@kleia.co).
