@@ -74,6 +74,14 @@ strong>a {
     font-weight: 700 !important;
 }
 
+#menu a[title="Work with Kleia"] {
+    font-weight: 600 !important;
+}
+
+#menu a svg {
+    display: none;
+}
+
 body {
     font-size: 20px;
 }
