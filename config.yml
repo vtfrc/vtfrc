@@ -30,12 +30,9 @@ languages:
                 - name: Work
                   url: work
                   weight: 5
-                - name: Search
-                  url: search/
-                  weight: 10
                 - name: Contacts
                   url: mailto:vittorio@kleia.co
-                  weight: 15
+                  weight: 10
                 - name: Work with me
                   url: https://tally.so/r/wdY4Qq
 
