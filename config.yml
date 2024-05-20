@@ -35,6 +35,9 @@ languages:
                   weight: 10
                 - name: Contacts
                   url: mailto:vittorio@kleia.co
+                  weight: 15
+                - name: Work with me
+                  url: https://tally.so/r/wdY4Qq
 
 outputs:
     home:
