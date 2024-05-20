@@ -103,6 +103,9 @@ body {
     .home-info .entry-content {
         font-size: 19px;
     }
+    .first-entry.home-info {
+        margin-bottom: 2.5rem;
+    }
 }
 	
 .home-info .entry-content a {
