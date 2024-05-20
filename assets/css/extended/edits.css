@@ -93,6 +93,7 @@ body {
 
 .first-entry.home-info {
     margin-top: 0;
+    margin-bottom: 0;
 }
 
 @media (max-width: 1024px) {
