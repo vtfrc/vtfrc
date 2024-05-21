@@ -85,16 +85,14 @@ params:
             streamlined growth. Subscribe to the newsletter below or [work with me](https://tally.so/r/wdY4Qq).
 
     socialIcons:
+        - name: linkedin
+          url: "https://linkedin.com/in/vittoriofaraco"
         - name: x
-          url: "https://x.com/vtfrc"
+          url: "https://x.com/vtfrc0"
         - name: github
           url: "https://github.com/vtfrc"
         - name: youtube
           url: "https://youtube.com/@VittorioFaraco2"
-        - name: linkedin
-          url: "https://linkedin.com/in/vittoriofaraco"
-        - name: googlescholar
-          url: "https://scholar.google.com/citations?user=1tpnuWsAAAAJ"
         - name: email
           url: "mailto:vittorio@kleia.co"
 
