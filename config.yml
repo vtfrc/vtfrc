@@ -87,8 +87,6 @@ params:
     socialIcons:
         - name: linkedin
           url: "https://linkedin.com/in/vittoriofaraco"
-        - name: x
-          url: "https://x.com/vtfrc0"
         - name: github
           url: "https://github.com/vtfrc"
         - name: youtube
