@@ -30,7 +30,7 @@ languages:
                 - name: Work
                   url: work
                   weight: 5
-                - name: Contacts
+                - name: Contact
                   url: mailto:vittorio@kleia.co
                   weight: 10
                 - name: Book a call
