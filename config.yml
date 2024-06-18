@@ -87,10 +87,10 @@ params:
     socialIcons:
         - name: linkedin
           url: "https://linkedin.com/in/vittoriofaraco"
-        - name: github
-          url: "https://github.com/vtfrc"
         - name: youtube
           url: "https://youtube.com/@VittorioFaraco2"
+        - name: github
+          url: "https://github.com/vtfrc"
         - name: email
           url: "mailto:vittorio@kleia.co"
 
