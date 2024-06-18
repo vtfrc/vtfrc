@@ -25,6 +25,16 @@ code, pre {
     font-family: "fira", monospace;
 }
 
+::-moz-selection {
+  color: white;
+  background: #ee7867;
+}
+
+::selection {
+  color: white;
+  background: #ee7867;
+}
+
 .post-content code {
     color: var(--secondary);
     background: var(--border);
