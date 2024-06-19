@@ -33,7 +33,7 @@ I don't get the hate for PHP, plus I heard the newest versions got rid of all th
 
 Some modules from the Laravel ecosystems I love and I'm working a lot with: Blade for templating, Eloquent as the ORM, the authentication system, Forge with a provider (I use Hetzner but I also recommend Vultr) for deployment and server management, Breeze as a starter.
 
-I already rebuilt the current core feature of the app: the OCR-powered automatic health data manager. I have to add complementary features but I don't have doubts about how smooth the experience will be with Laravel.
+I already rebuilt the current core feature of the app: the OCR-powered automatic health data manager. I have to add complementary features but I have no doubts about how smooth the experience will be with Laravel.
 
 More on this soon.
 
