@@ -81,8 +81,8 @@ params:
     homeInfoParams:
         Title: "Vittorio"
         Content: >
-            I'm a software engineer. I created [Kleia](https://kleia.co), an innovation hub for
-            tech that matters. Subscribe to the newsletter below or [book a call](https://calendly.com/kleia/call).
+            I'm a software engineer. I created [Kleia](https://kleia.co), an innovation and
+            technology hub. Subscribe to the newsletter below or [book a call](https://calendly.com/kleia/call).
 
     socialIcons:
         - name: linkedin
