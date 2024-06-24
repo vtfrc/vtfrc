@@ -12,7 +12,7 @@ I'm currently a software engineer at [Blue Reply](https://www.reply.com/blue-rep
 
 I'm also an [advisor](https://calendly.com/kleia/call) to innovative businesses, and I started a few projects, like [Kleia](https://kleia.co), an innovation and technology hub and newsletter, and [Healti](https://healti.net), the modern personal health record.
 
-On the technical side, some of the tools I use daily and love are Python, Java, PHP, Spring, Laravel, Vue, jQuery, Flutter, Kafka, Hugo, Cloudflare. A few domains I find intriguing are e-health, wellness, digital media, and intelligent transport.
+On the technical side, some of the tools I use daily and love are Python, Java, PHP, Spring, Laravel, Vue, Flutter, Kafka, Hugo. A few domains I find intriguing are e-health, wellness, digital media, and intelligent transport.
 
 ## Resumé
 
