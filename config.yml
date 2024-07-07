@@ -33,8 +33,6 @@ languages:
                 - name: Contact
                   url: mailto:vittorio@kleia.co
                   weight: 10
-                - name: Book a call
-                  url: https://calendly.com/kleia/call
 
 outputs:
     home:
@@ -82,7 +80,7 @@ params:
         Title: "Vittorio"
         Content: >
             I'm a software engineer. I created [Kleia](https://kleia.co), an innovation and
-            technology hub. Subscribe to the newsletter below or [book a call](https://calendly.com/kleia/call).
+            technology hub. Subscribe to the newsletter below or [contact me](mailto:vittorio@kleia.co).
 
     socialIcons:
         - name: linkedin
