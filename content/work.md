@@ -34,7 +34,7 @@ On the technical side, some of the tools I use daily and love are Python, Java, 
 ### Extras
 
 - **Certificate in Advanced English, C2 CEFR level**, [Cambridge University Press & Assessment](https://www.cambridge.org/), *2023*
-- **Digital Media Producer**, [YouTube](https://youtube.com/@VittorioFaraco2) and other channels, *2018 - present*
+- **Digital Media Producer**, [YouTube](https://youtube.com/@vittoriof) and other channels, *2018 - present*
 
 ### Projects
 
