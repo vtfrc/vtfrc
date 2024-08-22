@@ -7,7 +7,8 @@
         {{ .Content | markdownify }}
     </div>
 
-    <iframe src="https://kleia.substack.com/embed" width="auto" height="auto" frameborder="0" scrolling="no"></iframe>
+    <style>@media screen and (min-width: 1024px) {iframe {width: 30rem;}}</style>
+    <iframe src="https://kleia.substack.com/embed" width="auto" height="auto" frameborder="0" scrolling="no" style="border-radius: 1rem; max-width: 30rem; margin-left: auto; margin-right: auto;"></iframe>
     
     <footer class="entry-footer">
         {{ partial "social_icons.html" site.Params.socialIcons }}
