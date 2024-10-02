@@ -8,7 +8,7 @@
 {{- end }}
 
 {{- /* Title */}}
-<title>{{ if .IsHome }}vtfrc - engineer building and sharing{{ if eq .Title "work" }}work - {{ else }}{{ if .Title }}{{ .Title }} - {{ end }}{{ site.Title }}{{ end }}</title>
+<title>{{ if .IsHome }}vtfrc - engineer building and sharing{{ else }}{{ if .Title }}{{ if eq .Title "Work" }}work - {{ else }}{{ .Title }} - {{ end }}{{ site.Title }}{{ end }}</title>
 
 {{- /* Meta */}}
 {{- if .IsHome }}
