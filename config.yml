@@ -27,10 +27,10 @@ languages:
           series: series
         menu:
             main:
-                - name: Work
+                - name: work
                   url: work
                   weight: 5
-                - name: Contact
+                - name: contact
                   url: mailto:vittorio@kleia.co
                   weight: 10
 
