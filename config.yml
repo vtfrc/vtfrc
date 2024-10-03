@@ -79,7 +79,7 @@ params:
     homeInfoParams:
         Title: "Vittorio"
         Content: >
-            I'm a software engineer. I build and share on [kleia](https://kleia.co) and [youtube](https://youtube.com/@kleiayt). Subscribe to the newsletter below or [contact me](mailto:vittorio@kleia.co).
+            software engineer building and sharing on [kleia](https://kleia.co) and [youtube](https://youtube.com/@kleiayt) - subscribe to the newsletter below or [contact me](mailto:vittorio@kleia.co)
 
     socialIcons:
         - name: linkedin
