@@ -34,7 +34,7 @@ On the technical side, some of the tools I use daily are Java/Spring, Angular, K
 ### Extras
 
 - **Certificate in Advanced English, C2 CEFR level**, [Cambridge University Press & Assessment](https://www.cambridge.org/), *2023*
-- **Digital Media Producer**, [YouTube](https://youtube.com/@kleiayt) and other channels, *2018 - present*
+- **Digital Media**, [YouTube](https://youtube.com/@kleiayt) and other channels, *2018 - present*
 
 ### Projects
 
