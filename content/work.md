@@ -8,11 +8,11 @@ hidemeta: true
 hidenewsletter: true
 ---
 
-I'm currently a software engineer at [Blue Reply](https://www.reply.com/blue-reply/it/), working on information systems in the financial sector.
+I'm currently a software engineer at [Blue Reply](https://www.reply.com/blue-reply/it/), working on systems and services for the financial sector.
 
-I'm also an [advisor](mailto:vittorio@kleia.co) to innovative businesses, and I started a few projects, like [kleia](https://kleia.co), an innovation hub and newsletter, and [Healti](https://healti.net), a modern personal health record.
+I also write [kleia](https://kleia.co), an innovation hub and newsletter focusing on simplifying things in tech and business.
 
-On the technical side, some of the tools I use daily are Java/Spring, Angular, Kafka, and others I love are Laravel, Vue, Flutter. A few areas I find intriguing are e-health, fintech, wellness, digital media, and smart mobility.
+A few areas I find intriguing are e-health, fintech, wellness, digital media, and smart mobility.
 
 ## Resumé
 
