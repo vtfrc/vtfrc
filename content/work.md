@@ -34,7 +34,7 @@ A few areas I find intriguing are e-health, fintech, wellness, digital media, an
 ### Extras
 
 - **Certificate in Advanced English, C2 CEFR level**, [Cambridge University Press & Assessment](https://www.cambridge.org/), *2023*
-- **Digital Media**, [YouTube](https://youtube.com/@kleiayt) and other channels, *2018 - present*
+- **Digital Media**, [YouTube](https://youtube.com/@kleia) and other channels, *2018 - present*
 
 ### Projects
 
