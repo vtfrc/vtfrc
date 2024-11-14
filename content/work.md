@@ -10,7 +10,7 @@ hidenewsletter: true
 
 I'm currently a software engineer at [Blue Reply](https://www.reply.com/blue-reply/it/), working on systems and services for the financial sector.
 
-I also write [kleia](https://kleia.co), an innovation hub and newsletter focusing on simplifying things in tech and business.
+I also write [kleia](https://kleia.co), an innovation hub and newsletter focusing on simplifying tech and business strategy.
 
 A few areas I find intriguing are e-health, fintech, wellness, digital media, and smart mobility.
 
