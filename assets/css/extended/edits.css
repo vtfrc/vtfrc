@@ -114,6 +114,10 @@ body {
     margin-bottom: 0;
 }
 
+.post-content h2 {
+    font-size: 28px;
+}
+
 @media (max-width: 1024px) {
     body {
         font-size: 19px;
@@ -123,6 +127,12 @@ body {
     }
     .first-entry.home-info {
         margin-bottom: 2.5rem;
+    }
+    .post-content h2 {
+        font-size: 22px;
+    }
+    .post-content h3 {
+        font-size: 20px;
     }
 }
 	
