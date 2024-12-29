@@ -79,7 +79,7 @@ params:
     homeInfoParams:
         Title: "Vittorio"
         Content: >
-            software engineer building and sharing on [kleia](https://kleia.co)
+            software engineer, [here's what I do](/work)
 
     socialIcons:
         - name: linkedin
