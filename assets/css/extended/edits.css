@@ -112,6 +112,7 @@ body {
 .first-entry.home-info {
     margin-top: 0;
     margin-bottom: 0;
+    height: 240px;
 }
 
 .post-content h2 {
@@ -124,9 +125,6 @@ body {
     }
     .home-info .entry-content {
         font-size: 19px;
-    }
-    .first-entry.home-info {
-        margin-bottom: 2.5rem;
     }
     .post-content h2 {
         font-size: 22px;
