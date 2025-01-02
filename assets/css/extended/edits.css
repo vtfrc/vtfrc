@@ -112,7 +112,7 @@ body {
 .first-entry.home-info {
     margin-top: 0;
     margin-bottom: 0;
-    height: 240px;
+    min-height: 240px;
 }
 
 .post-content h2 {
