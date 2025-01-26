@@ -10,7 +10,7 @@ hidenewsletter: true
 
 I'm currently a software engineer at [Blue Reply](https://www.reply.com/blue-reply/it/), working on systems and services for the financial sector.
 
-I also write [kleia](https://kleia.co), a newsletter sharing 2-minute tech updates, and advise companies on tech strategy.
+I also founded [kleia](https://kleia.co) to build and share about tech, and advise companies on tech strategy.
 
 ## Resumé
 
