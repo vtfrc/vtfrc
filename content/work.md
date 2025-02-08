@@ -40,4 +40,4 @@ I also founded [kleia](https://kleia.co) to build and share about tech, and advi
 
 ### Technologies
 
-I've worked with a wide range of technologies, mostly web ones. Here are some I'm using right now: TypeScript, Java, Angular, SvelteKit, Spring, Firebase.
+I've worked with a wide range of software technologies. Here are some I'm using right now: TypeScript, Java, Angular, SvelteKit, Spring, Flutter, Firebase.
