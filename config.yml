@@ -31,7 +31,7 @@ languages:
                   url: work
                   weight: 5
                 - name: contact
-                  url: mailto:vittorio@kleia.co
+                  url: mailto:mediakleia@gmail.com
                   weight: 10
 
 outputs:
@@ -91,7 +91,7 @@ params:
         - name: github
           url: "https://github.com/vtfrc"
         - name: email
-          url: "mailto:vittorio@kleia.co"
+          url: "mailto:mediakleia@gmail.com"
 
     # label:
     #    text: ""
