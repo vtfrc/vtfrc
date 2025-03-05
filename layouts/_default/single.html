@@ -42,34 +42,7 @@
       <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
       {{- end }}
     </ul>
-
-    {{- if not (.Param "hideNewsletter") }}
-    <style>
-      @media (max-width: 1024px) {
-        .post-ctabox {
-          padding: 0 1.5rem !important;
-        }
-        .post-ctabox p {
-          margin-top: 1rem !important;
-        }
-        .post-ctabox ol {
-          margin-bottom: 1rem !important;
-        }
-      }
-    </style>
     
-    <div class="post-content post-ctabox" style="border: 1px solid var(--tertiary); padding: 0.25rem 2rem; margin-bottom: 2rem; border-radius: 0.75rem">
-      <p style="margin-top: 1.5rem; font-size: 1.375rem; font-weight: 500 !important; font-family: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;">Here's how I can help you:</p>
-      <ol style="margin-bottom: 1.5rem">
-        <li><a href="mailto:vittorio@kleia.co?subject=Consulting Info Request" target="_blank" style="box-shadow: 0 1px var(--secondary) !important; font-weight: 600 !important;">Consulting:</a> send a request for tech business consulting.</li>
-        <li><a href="mailto:info@kleia.co?subject=Sponsorship Info Request" style="box-shadow: 0 1px var(--secondary) !important; font-weight: 600 !important;">Sponsorship:</a> reserve a spot to sponsor kleia's newsletter.</li>
-      </ol>
-    </div>
-
-    <div class="post-content">
-      <a href="https://kleia.co" target="_blank">Subscribe to the newsletter to get content like this in your inbox.</a>      
-    </div>
-       
     {{- end }}
     
     {{- if (.Param "ShowPostNavLinks") }}
