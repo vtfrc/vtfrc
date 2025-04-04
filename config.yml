@@ -86,8 +86,6 @@ params:
           url: "https://linkedin.com/in/vittoriofaraco"
         - name: instagram
           url: "https://instagram.com/vittoriofaraco"
-        - name: youtube
-          url: "https://youtube.com/@kleia"
         - name: github
           url: "https://github.com/vtfrc"
         - name: email
