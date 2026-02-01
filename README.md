@@ -1,10 +1,10 @@
-# Vittorio Faraco
+# vtfrc
 
-Full-stack developer building tools for the banking and fintech world. Focused on backend systems, developer tooling, and making financial infrastructure easier to work with.
+Exploring and creating problems for solutions that already exist.
 
 ## Tech
 
-TypeScript · Node.js · Go · React · Python · Kafka
+TypeScript · Java · SvelteKit · Python · Kafka
 
 ## Projects
 
