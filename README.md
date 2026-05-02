@@ -8,7 +8,7 @@ TypeScript, Java, SvelteKit, Spring, Python, Kafka
 
 ## Projects
 
-- **[tkesim](https://github.com/vtfrc/tkesim)** — TUI Kafka event simulator for banking system testing. Generate synthetic events from templates or replay from production logs with selective field regeneration.
+- **[tkesim](https://github.com/vtfrc/tkesim)** — TUI Kafka event simulator for system testing. Generate synthetic events from templates or replay from logs with selective field regeneration.
 
 ## Links
 
