@@ -8,7 +8,7 @@ TypeScript, Java, SvelteKit, Spring, Python, Kafka
 
 ## Projects
 
-- **[tkesim](https://github.com/vtfrc/tkesim)** — TUI Kafka event simulator for system testing. Generate synthetic events from templates or replay from logs with selective field regeneration.
+- **[watchagent](https://github.com/vtfrc/watchagent)** — Reliable semantic events from web pages. Plain-English conditions, verified before/after evidence and a live LLM eval harness, built entirely on Cloudflare Workers, D1, Queues and Workers AI.
 
 ## Links
 
